@@ -1,0 +1,13 @@
+# Private keys
+*.key
+*.pem
+id_ed25519
+id_rsa
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Windows/macOS junk
+Thumbs.db
+.DS_Store
