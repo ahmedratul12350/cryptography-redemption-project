@@ -1,6 +1,6 @@
 # Cryptography Redemption Project
 
-This submission contains all four requested tasks:
+This project contains all four requested tasks:
 
 1. **Blockchain simulator** — KPub, KPriv, DS, Hash, PoW, Block, Blockchain, Transaction
 2. **Sender → receiver file encryption** using OpenSSL
