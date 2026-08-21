@@ -70,14 +70,4 @@ Read `03_ssh_github_auth/README.md` and follow the steps using your own GitHub a
 
 Read `04_wireshark_http_vs_https/README.md`. Capture only the included localhost lab traffic and use dummy credentials.
 
-## Submission workflow
 
-1. Run every lab.
-2. Capture the screenshots listed in each lab README.
-3. Paste screenshots into a copy of `SUBMISSION_REPORT.md` or your instructor's report format.
-4. Replace the student/course/date placeholders.
-5. Submit the code/scripts plus the completed report.
-
-## Security note
-
-The project is intentionally educational. Private keys, real passwords, and other people's network traffic must not be exposed or captured.
