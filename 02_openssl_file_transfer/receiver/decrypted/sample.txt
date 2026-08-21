@@ -1,0 +1,2 @@
+Cryptography Redemption Project
+This is a harmless sample file used to demonstrate OpenSSL encryption and decryption.
