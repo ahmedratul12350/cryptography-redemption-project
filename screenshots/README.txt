@@ -1,4 +1,4 @@
-CRYPTOGRAPHY REDEMPTION PROJECT - SCREENSHOT INDEX
+SCREENSHOT INDEX
 
 01_GitHub_SSH
 --------------
@@ -30,8 +30,3 @@ CRYPTOGRAPHY REDEMPTION PROJECT - SCREENSHOT INDEX
 
 04_https_encrypted_application_data_packet.png
   Shows Wireshark packet details identifying encrypted TLS Application Data.
-
-IMPORTANT
----------
-Only dummy credentials are shown in the Wireshark HTTP demonstration.
-The SSH private-key CONTENT is not included in these screenshots.
