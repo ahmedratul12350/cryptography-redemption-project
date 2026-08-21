@@ -4,10 +4,10 @@
 id_ed25519
 id_rsa
 
-# Python temporary files
+# Python
 __pycache__/
 *.pyc
 
-# Windows/macOS junk
+# Windows/macOS
 Thumbs.db
 .DS_Store
